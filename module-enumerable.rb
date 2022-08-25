@@ -1,4 +1,4 @@
-module Enumerable
+module MyEnumerable
   def all?
     result = true
 
